@@ -120,3 +120,31 @@ En este tipo de servicios en la nube el proveedor ofrece acceso a un entorno bas
 3. ***Infrastructure as a Service (IaaS).***
 Un proveedor de servicios proporciona el software y las aplicaciones a través de Internet. Los usuarios se suscriben al software y acceden a él a través de la web o las APIs del proveedor.
 ![IAAS](https://www.csuc.cat/sites/default/files/2021-02/IaaS.png)
+
+>### - FRONTEND
+---
+Front End es la parte de una aplicación que interactúa con los usuarios, es conocida como el lado del cliente. Básicamente es todo lo que vemos en la pantalla cuando accedemos a un sitio web o aplicación: tipos de letra, colores, adaptación para distintas pantallas(RWD), los efectos del ratón, teclado, movimientos, desplazamientos, efectos visuales… y otros elementos que permiten navegar dentro de una página web. Este conjunto crea la experiencia del usuario.
+
+Como hemos dicho, el desarrollador front end se encarga de la experiencia del usuario, es decir,  en el momento en el que este entra a una página web, debe ser capaz de navegar por ella, por lo que el usuario verá una interface sencilla de usar, atractiva y funcional.
+
+![Frontend y backend](https://miro.medium.com/max/3840/1*Hy-RTBZiiqFH9sLHZKDRlQ.png)
+
+>### - BACKEND
+---
+Cuando hablamos de “Back end” nos referimos al interior de las aplicaciones que viven en el servidor y al que a menudo se le denomina “el lado del servidor”.
+
+El back end del sitio web consiste en un servidor, una aplicación y una base de datos. Se toman los datos, se procesa la información y se envía al usuario.  Los desarrolladores de Front end y Back end suelen trabajar juntos para que todo funcione correctamente.
+
+Un desarrollador Back end debe tener amplios conocimientos de los siguientes lenguajes: frameworks y los tipos de base de datos. No siendo necesario conocer todos los lenguajes pero sí entender y saber trabajar con algunos de ellos.
+
+>### - API
+---
+
+![API ilusatracion](https://www.ycoinbound.com/hubfs/api.jpg)
+Una API es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programación de aplicaciones.
+
+Las API **permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.** Esto simplifica el desarrollo de las aplicaciones y permite ahorrar tiempo y dinero. Las API le otorgan flexibilidad; simplifican el diseño, la administración y el uso de las aplicaciones, y proporcionan oportunidades de innovación, lo cual es ideal al momento de diseñar herramientas y productos nuevos (o de gestionar los actuales).
+
+
+---
+---
